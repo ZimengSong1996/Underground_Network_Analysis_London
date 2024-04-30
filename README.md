@@ -2,6 +2,8 @@
 
 `Contact: ismine.song@gmail.com`
 
+`Main content: Underground_Network_Analysis_London.ipynb`
+
 This is a individual program from UCL, CASA. The program is designed to assess the understanding and application of the different urban modelling methodologies. This could be used as a basical tutorial for analysing transport network.
 
 The program will guide you to critically investigate the resilience of the London’s underground as a network and the methodological limitations. We will do this in two ways. In the first part, we will only take into consideration the infrastructural network, where stations are connected through only one link, regardless of the number of lines connecting the stations. In the second part, we will consider the commuting flows, and discuss the impact of the analysis on the number of people moving from one part of the city to another. Then, we will recompute the flows using spatial interaction models according to different scenarios described below and discuss the vulnerability of the network under these new scenarios.
