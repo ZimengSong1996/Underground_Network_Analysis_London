@@ -26,6 +26,7 @@ In this part, we will evaluate the resilience of the London’s underground thro
 `II. Flows: weighted network`
 
 In this section, we will include passengers into the underground, and assess whether different measures need to be used when flows are considered. The network to use in this section is the weighted network given in the github 'london_flows.csv', where the flows of passengers were assigned to the links between stations.
+
 `II.1. Weighted Betweenness Centrality in Directed Networks`
 
 `II.2. Weighted Directed Network Efficiency`
